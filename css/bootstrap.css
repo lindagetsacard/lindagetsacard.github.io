@@ -43,6 +43,7 @@ html {
 }
 body {
   margin: 0;
+  background: #E6FFEB;
 }
 a {
   background: transparent;
@@ -5415,8 +5416,8 @@ button.close {
 }
 .carousel-caption {
   position: absolute;
-  left: 15%;
-  right: 15%;
+  left: 5%;
+  right: 5%;
   bottom: 20px;
   z-index: 10;
   padding-top: 20px;
