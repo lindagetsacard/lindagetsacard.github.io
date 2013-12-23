@@ -414,7 +414,7 @@ h1,
 }
 h2,
 .h2 {
-  font-size: 30px;
+  font-size: 42px;
 }
 h3,
 .h3 {
@@ -437,7 +437,7 @@ p {
 }
 .lead {
   margin-bottom: 20px;
-  font-size: 26px;
+  font-size: 34px;
   font-weight: 200;
   line-height: 1.4;
 }
