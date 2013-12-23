@@ -675,6 +675,7 @@ pre code {
   margin-left: auto;
   padding-left: 15px;
   padding-right: 15px;
+  max-width: 640px;
 }
 .container:before,
 .container:after {
@@ -5441,8 +5442,8 @@ button.close {
     font-size: 30px;
   }
   .carousel-caption {
-    left: 20%;
-    right: 20%;
+    /* left: 20%; */
+    /* right: 20%; */
     padding-bottom: 30px;
   }
   .carousel-indicators {
@@ -5964,4 +5965,9 @@ td.visible-print {
   td.hidden-print {
     display: none !important;
   }
+}
+
+/* Defined by Lucas! */
+.darkened {
+  -webkit-filter: brightness(0.6);
 }
