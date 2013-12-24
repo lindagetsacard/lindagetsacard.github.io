@@ -4603,5 +4603,5 @@ td.visible-print {
 /* Defined by Lucas! */
 .darkened {
   -webkit-filter: brightness(0.6);
-  -apple-filter: brightness(-0.4);
+  -apple-filter: brightness(-0.3);
 }
